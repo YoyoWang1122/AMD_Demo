@@ -897,5 +897,5 @@ ENTRY_IMPLEMENT_MAIN(
 	ExampleAMD3D
 	, "AMDTEST"
 	, "AMDTEST"
-	, "https://bkaradzic.github.io/bgfx/examples.html#update"
+	, "https://github.com/YoyoWang1122/AMD_Demo/tree/master"
 );

@@ -2,4 +2,4 @@
 
 
 3rd\bx\tools\bin\windows\genie   --with-examples  vs2022
-@rem start .build\projects\vs2022\AMD_Demo.sln
+start .build\projects\vs2022\AMD_Demo.sln
